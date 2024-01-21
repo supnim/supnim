@@ -1,16 +1,12 @@
-### Hi there 👋
+### hello hello 👋
 
-<!--
-**supnim/supnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### i'm nim a indiehacker
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⌾ product designer turned engineer building products :) <br/>
+⌘ currently [✦✦AiAgent](https://AiAgent.app) + [◘daydot](https://daydot.app). <br/>
+⌥ running [studio.gold](https://studio.gold) & more. <br/>
+⤴︎ prev. [amazon](https://amazon.com).  <br/>
+⊹ using `.tsx`, `.py`, `.html`, `.css`, `.json`, `.figma` <br/>
+↗ active on [𝕏/sup_nim](https://twitter.com/sup_nim) <br/>
+ <br/>
+◡̈
