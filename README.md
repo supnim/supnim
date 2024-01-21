@@ -1,6 +1,6 @@
 ### hello hello 👋
 
-#### i'm nim a indiehacker
+#### i'm nim an indiehacker
 
 ⌾ product designer turned engineer building products :) <br/>
 ⌘ currently [✦✦AiAgent](https://AiAgent.app) + [◘daydot](https://daydot.app). <br/>
